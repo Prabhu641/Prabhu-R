@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Prabhu R
 
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" margin=20px>
 - 🔭 Here's my [portfolio](https://devprabhu.vercel.app/)                                                 
 - 🌱 I’m currently looking for job for the role of Software Developer
 
@@ -17,4 +17,4 @@
 
 
 
-!
+
